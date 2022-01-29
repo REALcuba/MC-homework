@@ -10,4 +10,4 @@ git log --path
 
 What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
 
-It refer to the branch HEAD.
+It refer to the last commit in github.
